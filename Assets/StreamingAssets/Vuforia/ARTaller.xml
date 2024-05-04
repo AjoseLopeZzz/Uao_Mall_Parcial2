@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="tarjetastar" size="10.000000 15.306666" />
+    <ImageTarget name="tarjetaminiso" size="10.000000 15.306666" />
+    <ImageTarget name="tarjetahym" size="10.000000 15.306666" />
+    <ImageTarget name="tarjetacorral" size="10.000000 15.306666" />
+    <ImageTarget name="tarjetaadidas" size="10.000000 15.306666" />
+    <ImageTarget name="2" size="10.000000 15.359116" />
+    <ImageTarget name="mario" size="10.000000 15.306666" />
+    <ImageTarget name="tierra" size="10.000000 10.256411" />
+  </Tracking>
+</QCARConfig>
