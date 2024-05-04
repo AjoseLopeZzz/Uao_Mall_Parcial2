@@ -13,4 +13,4 @@ Google ARcore
 
 Este proyecto esta incompleto, le faltan 10GB que no se pueden subir al github.
 
-(Este repositorio se ha creado principalmente como un almacenamiento para mis proyectos personales. Preferiría que no se copiara directamente, ya que es parte de un trabajo parcial.)
+(Este repositorio se ha creado principalmente como un almacenamiento para mis proyectos personales. Muy amablemente te pido que no se copiara directamente, ya que es parte de un trabajo parcial.)
